@@ -1,7 +1,7 @@
 # Hello    ༼ つ ◕_◕ ༽つ <p>
 **Meu nome é Rafael de Mattia e curso ciência da computação na Universidade Federal de Pelotas📖<p>**
 *Amo tecnologia e tenho gana por conhecimento!<p>*
-🎈Atualmente estudo linguagens de desenvolvimento web e SQL.<p>
+🎈Aspirante a Javeiro<p>
 <div align="center">
   <a href="https://github.com/rafamattia2">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafamattia2&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true%22/%3E"/>
